@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "The futuristic all-in-one life assistant blending everyday utilities, Gemini AI tools, productivity, and liquid-glass aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
